@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Jank 👋</h1>
+<h1>Hey, I'm Jank 👋</h1>
 
-<p align="center">
+<p>
   🎓 大连民族大学 · 物联网工程 · 2024级<br/>
   🤖 热爱 AI / CV / 机器人 
 </p>
@@ -9,27 +9,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-```java
-public class Jank {
-    String name     = "Jank";
-    String school   = "大连民族大学";
-    String major    = "物联网工程";
-    int    year     = 2024;
-
-    String[] languages  = {"C", "Java", "Python"};
-    String[] interests  = {"Agent", "Machine Learning", "Computer Vision", "Robotics"};
-    String[] tools      = {"Git", "Linux", "Docker", "VS Code", "IntelliJ IDEA"};
-
-    void introduce() {
-        System.out.println("Hi! I'm a curious student who loves building things with code and AI.");
-    }
-}
-```
-
----
-
-## 🛠️ Tech Stack
 
 <div align="center">
 
