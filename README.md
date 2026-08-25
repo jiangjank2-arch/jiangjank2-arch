@@ -1,12 +1,14 @@
 <h1>Hey, I'm Jank 👋</h1>
 
-<img align="right" src="./github.jpg" width="250" alt="Jank">
-
 ## ABOUT ME
 🏫 大连民族大学 物联网工程 2024
 
 
 🤖 热爱 AI / CV / 机器人 
+
+
+<img align="right" src="./github.jpg" width="250" alt="Jank">
+
 
 
 <div>
