@@ -5,7 +5,7 @@
 
 🤖 热爱 AI / CV / 机器人 
 
-<img align="right" src="./github.jpg" width="250" alt="Jank"  style="margin-top: -20px;">
+<img align="right" src="./github.jpg" width="200" alt="Jank">
 
 
 <div>
