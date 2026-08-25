@@ -1,5 +1,7 @@
 <h1>Hey, I'm Jank 👋</h1>
 
+<img align="right" src="./github.jpg" width="250" alt="Jank">
+
 ## ABOUT ME
 🏫 大连民族大学 物联网工程 2024
 
@@ -29,8 +31,6 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
-
-<img align="right" src="./github.jpg" width="200" alt="Jank">
 
 </div>
 
