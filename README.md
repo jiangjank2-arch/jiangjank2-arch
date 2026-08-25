@@ -30,7 +30,7 @@
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
 
-<img align="right" src="./github.jpg">
+<img align="right" src="./github.jpg" width="200" alt="Jank">
 
 </div>
 
