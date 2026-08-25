@@ -1,76 +1,79 @@
-# [旺柴]Hi ~ I'm Jank 
+<h1 align="center">Hey, I'm Jank 👋</h1>
 
-<!-- 右侧像素小人 -->
-<img align="right" src="https://count.getloli.com/get/@blackirlsama?theme=moebooru&scale=1.1" alt="blackirlsama" width="400"/>
-
-
-
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring-cloud&logoColor=white)](https://spring.io/projects/spring-cloud)
-[![MyBatis-Plus](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)](https://baomidou.com/)
-[![Netty](https://img.shields.io/badge/Netty-009933?style=flat-square&logo=netty&logoColor=white)](https://netty.io/)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://python.langchain.com/)
+<p align="center">
+  🎓 大连民族大学 · 物联网工程 · 2024级<br/>
+  🤖 热爱 AI / CV / 机器人 
+</p>
 
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
-[![RocketMQ](https://img.shields.io/badge/RocketMQ-C12229?style=flat-square&logo=apache%20rocketmq&logoColor=white)](https://rocketmq.apache.org/)
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
-[![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)](https://min.io/)
-[![Canal](https://img.shields.io/badge/Canal-1E88E5?style=flat-square&logo=apache&logoColor=white)](https://github.com/alibaba/canal)
-[![Nacos](https://img.shields.io/badge/Nacos-1C8EED?style=flat-square&logo=alibaba-cloud&logoColor=white)](https://nacos.io/)
+---
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
+## 🧑‍💻 About Me
 
+```java
+public class Jank {
+    String name     = "Jank";
+    String school   = "大连民族大学";
+    String major    = "物联网工程";
+    int    year     = 2024;
 
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
-[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=white)](https://github.com/ultralytics/ultralytics)
-[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/index.html)
+    String[] languages  = {"C", "Java", "Python"};
+    String[] interests  = {"Agent", "Machine Learning", "Computer Vision", "Robotics"};
+    String[] tools      = {"Git", "Linux", "Docker", "VS Code", "IntelliJ IDEA"};
 
+    void introduce() {
+        System.out.println("Hi! I'm a curious student who loves building things with code and AI.");
+    }
+}
+```
 
-## ABOUT ME
-🏫 大连民族大学 物联网工程 2024届
+---
 
-🤝 欢迎交流学习心得和技术实践！
-<!-- 外层 div：控制整体的上下间距 -->
-<div style="margin: 10px 0">  
-  <!-- 第一个链接：邮箱跳转 -->
-  <a href="mailto:2719829078@qq.com">  
-    <!-- 链接里的图片：邮箱徽章 -->
-    <img 
-      src="https://img.shields.io/badge/799243133%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Email"
-    >  
-  </a>  
-  <!-- 第二个链接：力扣跳转 -->
-  <a href="https://leetcode.cn/u/cheng-zi-re/">  
-    <!-- 链接里的图片：力扣徽章 -->
-    <img 
-      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white" 
-      alt="LeetCode"
-    >  
-  </a>  
+## 🛠️ Tech Stack
+
+<div align="center">
+
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/)[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://python.langchain.com/)[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](https://github.com/ultralytics/ultralytics)[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/)[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/)[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/index.html)[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+
 </div>
 
-<!-- 可爱工具图标：放在像素小人下方右侧 -->
-<div align="left" style="margin-right: 20px; margin-top: 10px;">
-  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/VSCode.png" width="130" alt="VS Code" />
-  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/IntellijLogo.png" width="130" alt="IntelliJ IDEA" />
-  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/DockerLogo.png" width="130" alt="Docker" />
-</div>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 
-<div align="center" style="margin: 20px 0; width: 100%;">
-  <picture>
-    <!-- 深色主题显示深色版贪吃蛇 -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackirlsama/blackirlsama/output/github-contribution-grid-snake-dark.svg">
-    <!-- 浅色主题显示浅色版贪吃蛇 -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackirlsama/blackirlsama/output/github-contribution-grid-snake.svg">
-    <!-- 兜底显示浅色版 -->
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blackirlsama/blackirlsama/output/github-contribution-grid-snake.svg" style="width: 100%; border-radius: 8px;">
-  </picture>
+<!-- 隐藏旧的 shields，使用 github-readme-stats -->
+<!-- 你可以把 jank-dev 换成你自己的 GitHub 用户名 -->
+<img src="https://github-readme-stats.vercel.app/api?username=jank-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jank-dev&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
 </div>
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2719829078@qq.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.cn/u/cheng-zi-re/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jank-dev)
+
+</div>
+
+---
+
+<p align="center">
+  <i>"Talk is cheap, show me the code." — Linus Torvalds</i>
+</p>
+
+<!-- 如果你想加那张像素图 -->
+<!-- <p align="center"><img src="https://count.getloli.com/get/@jank-code?theme=moebooru&scale=1.1" alt="pixel art" /></p> -->
