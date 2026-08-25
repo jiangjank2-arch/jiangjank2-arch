@@ -43,7 +43,7 @@
     >  
   </a>  
   <!-- 第二个链接：力扣跳转 -->
-  <a href="https://leetcode.cn/u/cheng-zi-re/">  
+  <a href="https://leetcode.cn/u/Janka/">  
     <!-- 链接里的图片：力扣徽章 -->
     <img 
       src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white" 
