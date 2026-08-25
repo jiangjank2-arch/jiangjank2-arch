@@ -43,7 +43,7 @@
     >  
   </a>  
   <!-- 第二个链接：力扣跳转 -->
-  <a href="https://leetcode.cn/u/Janka/">  
+  <a href="https://leetcode.cn/u/avvesome-lichtermanxa5/">  
     <!-- 链接里的图片：力扣徽章 -->
     <img 
       src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white" 
@@ -59,7 +59,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2719829078@qq.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.cn/u/Janka/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.cn/u/avvesome-lichtermanxa5/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiangjank2-arch)
 
 </div>
