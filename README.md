@@ -15,8 +15,7 @@
 ### 🏫 Dalian Minzu University | Internet of Things Engineering | Class Of 2028
 
 <!-- 右侧像素小人 -->
-<img align="right" src="https://count.getloli.com/get/@blackirlsama?theme=moebooru&scale=1.1" alt="blackirlsama" width="400"/>
-
+<img align="right" src="[https://count.getloli.com/get/@blackirlsama?theme=moebooru&scale=1.1" alt="blackirlsama](https://count.getloli.com/@M_ine?theme=eva&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)" width="400"/>
 ### 🤖 Competition Experience
 - `RobotCup` : `SmartPatrol Geek`
 
