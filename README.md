@@ -1,39 +1,52 @@
-<h1>Hey, I'm Jank 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=I'm+Jank,+Agent/Tring Full Engineer" alt="Hi"/>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>I'm currently focused on AI Agent.</strong>
+  </p>
+  <p>
+    <code>🐼 Born 2005.10</code>
+    <code>📍 Now Base in Dalian.</code>
+  </p>
+</div>
+
 
 ## ABOUT ME
-🏫 大连民族大学 物联网工程 2024
+### 🏫 Dalian Minzu University | Internet of Things Engineering | Class Of 2028
 
-🤖 热爱 AI / CV / 机器人 
+<!-- 右侧像素小人 -->
+<img align="right" src="https://count.getloli.com/get/@blackirlsama?theme=moebooru&scale=1.1" alt="blackirlsama" width="400"/>
 
-<img align="right" src="./github.jpg" width="200" alt="Jank" style="padding-right: 50px;" >
+### 🤖 Competition Experience
+- `RobotCup` : `SmartPatrol Geek`
 
 
-<div>
-  
-[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+### 💻 Connect With Me
+- 📕 ZhiShu : `Jank`
+- 📺 BiliBili : _`Jank`
+- 📫 E-mail : `2719829078@qq.com`
+
+
+
+<br><br>
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)]
+
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://python.langchain.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](https://github.com/ultralytics/ultralytics)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/index.html)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
-
-</div>
-
----
 
 <!-- 外层 div：控制整体的上下间距 -->
 <div style="margin: 10px 0">  
@@ -55,21 +68,16 @@
   </a>  
 </div>
 
----
 
-## 📫 Contact Me
 
-<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2719829078@qq.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.cn/u/Jank-051014/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jiangjank2-arch)
-
+<div align="center" style="margin: 20px 0; width: 100%;">
+  <picture>
+    <!-- 深色主题显示深色版贪吃蛇 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blackirlsama/blackirlsama/output/github-contribution-grid-snake-dark.svg">
+    <!-- 浅色主题显示浅色版贪吃蛇 -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blackirlsama/blackirlsama/output/github-contribution-grid-snake.svg">
+    <!-- 兜底显示浅色版 -->
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blackirlsama/blackirlsama/output/github-contribution-grid-snake.svg" style="width: 100%; border-radius: 8px;">
+  </picture>
 </div>
-
----
-
-<p align="center">
-  <i>"Talk is cheap, show me the code." — Linus Torvalds</i>
-</p>
-
