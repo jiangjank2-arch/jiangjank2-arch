@@ -23,7 +23,7 @@
 
 ### 🤖 Competition Experience
 - `RobotCup` : `SmartPatrol Geek` -`National Level III`
-- `Northeast Region Optoelectronic Design Competition` : `SmartPatrol Geek` -`Provincial Level I`
+- `Northeast Optoelectronic Design` : `SmartPatrol Geek` -`Provincial Level I`
 
 ### 💻 Connect With Me
 - 📕 ZhiHu : `Jank`
