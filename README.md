@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=I'm+Jank,+Agent/Tring Full Engineer" alt="Hi"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Hey%2CI+am+Jank%2CNice+to+meet+you!" alt="Typing SVG" /></a>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>I'm currently focused on AI Agent.</strong>
