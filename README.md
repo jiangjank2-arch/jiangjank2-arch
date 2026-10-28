@@ -22,8 +22,8 @@
 <img align="right" src="https://count.getloli.com/@My_Jank?theme=eva&padding=8&offset=0&align=top&scale=1.1&pixelated=1&darkmode=auto&num=7684" width="400"/>
 
 ### 🤖 Competition Experience
-- `RobotCup` : `SmartPatrol Geek`
-
+- `RobotCup` : `SmartPatrol Geek` -`National Level III`
+- `Northeast Region Optoelectronic Design Competition` : `SmartPatrol Geek` -`Provincial Level I`
 
 ### 💻 Connect With Me
 - 📕 ZhiHu : `Jank`
