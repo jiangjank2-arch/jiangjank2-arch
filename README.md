@@ -1,5 +1,9 @@
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Hey%2CI+am+Jank%2CNice+to+meet+you!" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&center=true&width=435&lines=Hey%2CI+am+Jank%2CNice+to+meet+you!" alt="Typing SVG" />
+  </a>
+</div>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>I'm currently focused on AI Agent.</strong>
